@@ -41,11 +41,12 @@ public class User {
     @NotEmpty(message = "*Please provide valid last name")
     private String lastName;
 
-    @Column
     @NotNull(message = "*Please provide valid avatar id")
     private Byte avatarId;
 
-    @Column
+    @PastOrPresent
+    private LocalDateTime regDate;
+
     @PastOrPresent
     private LocalDateTime lastVisitDate;
 }

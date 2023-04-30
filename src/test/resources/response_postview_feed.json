@@ -1,0 +1,54 @@
+[
+  {
+    "id": 4,
+    "userId": 3,
+    "date": "2019-12-04T03:00:00",
+    "title": "Фото Галь Гадот, обработанное приложением Deep Nude. Опубликовано на сайте Vice",
+    "username": "salmahayek",
+    "firstName": "Salma",
+    "lastName": "Hayek",
+    "avatarId": 0,
+    "lastVisitDate": "2019-11-18T03:00:00",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "date": "2019-12-03T03:00:00",
+    "title": "Salma Hayek latest outfit",
+    "username": "salmahayek",
+    "firstName": "Salma",
+    "lastName": "Hayek",
+    "avatarId": 0,
+    "lastVisitDate": "2019-11-18T03:00:00",
+    "views": 1,
+    "likes": 1
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "date": "2019-12-02T03:00:00",
+    "title": "Elizabeth Hurley latest outfit",
+    "username": "elizabethhurley",
+    "firstName": "Elizabeth",
+    "lastName": "Hurley",
+    "avatarId": 0,
+    "lastVisitDate": "2019-11-19T03:00:00",
+    "views": 1,
+    "likes": 1
+  },
+  {
+    "id": 1,
+    "userId": 1,
+    "date": "2019-12-01T03:00:00",
+    "title": "Britney Spears latest outfit",
+    "username": "britneyspears",
+    "firstName": "Britney",
+    "lastName": "Spears",
+    "avatarId": 0,
+    "lastVisitDate": "2019-11-20T03:00:00",
+    "views": 1,
+    "likes": 1
+  }
+]

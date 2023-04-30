@@ -1,0 +1,18 @@
+[
+  {
+    "id": 4,
+    "liked": null
+  },
+  {
+    "id": 3,
+    "liked": null
+  },
+  {
+    "id": 2,
+    "liked": 2
+  },
+  {
+    "id": 1,
+    "liked": null
+  }
+]

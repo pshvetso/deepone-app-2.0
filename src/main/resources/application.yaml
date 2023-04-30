@@ -5,5 +5,9 @@ spring:
     password:
   jpa:
     hibernate:
-      ddl-auto: update
-
+      # Disable Hibernate automatic schema creation. This will ensure that script-based initialization is performed using schema.sql and data.sql directly.
+      ddl-auto: validate
+  sql:
+    init:
+      # Also, script-based initialization is performed by default only for embedded databases, to always initialize a database using scripts, we'll have to use:
+      mode: always
